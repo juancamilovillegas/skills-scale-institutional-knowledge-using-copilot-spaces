@@ -22,3 +22,8 @@ Clear **roles and communication cadences** underpin all phases. The Project Mana
 - [Risks and Communication](./octoacme-risks-and-communication.md)
 - [Release and Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
+
+### Supporting templates
+
+- [RACI Responsibility Matrix](./octoacme-raci-matrix.md) — who is Responsible, Accountable, Consulted, or Informed at each lifecycle phase
+- [Role Handoff Checklist](./octoacme-role-handoff-checklist.md) — step-by-step handoffs between roles (PdM → UX → BA → Dev → QA → Release)
